@@ -54,9 +54,9 @@ function Hero() {
         </div>
         <div className=" text-center mt-4 sm:mt-0 box-s2 border-2 bg-white py-1 rounded-xl">
           <p className="max-w-3xl  text-[#000000] text-xl mx-auto my-2">Contract : Frq2zWpHFwvkmVkvnmbUvTM3MYw1PsfBeMPhAb8UNohf</p>
-          <h1 className="text-center text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto"> Welcome to DogeRace: The Meme Coin of Champions on Solana </h1>
+          <h1 className="text-center text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">  The Meme Coin of Champions on Solana </h1>
           <p className=" max-w-3xl  text-[#000000] text-xl mx-auto">
-          DogeRace is a unique meme coin experience built on the Solana , with the fun and community spirit of meme coins. It's more than just a cryptocurrency; it's an adventure that rewards its participants with speed, entertainment, and the chance to be part of a vibrant community.
+          DogeWif is a unique meme coin experience built on the Solana , with the fun and community spirit of meme coins. It's more than just a cryptocurrency; it's an adventure that rewards its participants with speed, entertainment, and the chance to be part of a vibrant community.
           </p>
         </div>
         <div className=" hidden pb-2   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
