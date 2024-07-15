@@ -1,71 +1,59 @@
+import { BsTwitter } from "react-icons/bs";
 import { FaFacebookF, FaDiscord, FaInstagram } from "react-icons/fa";
+import { FaTelegram } from "react-icons/fa6";
 
-const Button = ({ children, className, link }) => {
-  return (
-    <a
-      href={link}
-      target="_blank"
-      className={`py-3 px-4 rounded-full bg-[rgba(255,255,255,.2)] text-sm transition-all duration-200 hover:bg-white hover:text-black ${className}`}
-    >
-      {children}
-    </a>
-  );
-};
-
-const SocialLink = ({ children }) => {
-  return (
-    <a
-      href="/"
-      className="w-[4em] h-[4em] rounded-full bg-white flex items-center justify-center text-[100%] text-white"
-    >
-      {children}
-    </a>
-  );
-};
 
 function JoinCommunity() {
   return (
     <section className="pt-24 relative z-10 overflow-hidden ">
       <div className="container-wrapper">
-        {/* <div className=" flex items-center justify-between"></div>
+          <div className=" box-s2 border-2 rounded-xl py-2 px-2 flex flex-col justify-center">
+          <div className="flex justify-center items-center flex-shrink-0 mr-6">
+        <a href="/" className="flex items-center space-x-3 rtl:space-x-reverse">
+          <img src="/images/logo.png" className="h-[105px]" alt=" Logo" />
 
-        <div className="flex flex-col lg:flex-row items-center justify-between gap-10 mb-2 lg:mb-20 text-center lg:text-left space-y-6 lg:space-y-0">
-          <div className=" max-w-xl">
+          <h1 className="v font-dream text-2xl sm:text-3xl font-bold ">$DogeWif</h1>
+        </a>
 
-          <img src="images/foot-logo.png" alt="" className="h-[16rem]" />
+        </div>
+
+        <div >
+      <h1 className=" text-5xl font-bold font-dream text-center py-3">  Contract address</h1>
+        <h2 className="text-3xl font-bold font-dream text-center py-1">
+          Coming soon......
+        </h2>
+
+        <div className=" flex justify-center items-center gap-3">
+        <a
+                  href="https://x.com/"
+                  className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                  <BsTwitter />
+                </a>
+             
+           
+
+                <a
+                  href="https://t.me/" target="_blank" rel="noreferrer"
+                  className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
+                >
+                  <FaTelegram />
+                </a>
+        </div>
+
+        <h1 className="font-dream text-2xl sm:text-3xl font-bold text-center">
+        Disclaimer: DogeWif is a meme token with no intrinsic value advertised <br /> or expectation of financial return. The token is for entertainment purposes only.
+        </h1>
+        </div>
           </div>
-          <div className=" w-full  max-w-xl  space-y-8">
-            <h1 className="text-3xl sm:text-4xl lg:text-5xl font-bold font-dream lh-1_4">
-              JOIN OUR COMMUNITY
-            </h1>
 
-            <input
-              type="text"
-              className="flex-1 h-14 bg-white rounded-full px-6 text-black w-full text-base"
-              placeholder="Your email"
-            />
 
-            <div className="flex items-center gap-5 justify-center lg:justify-end">
-             <a href="/">
-              <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
-             </a>
-             <a href="/">
-              <img src="WEB.png" alt="" className="w-auto h-[55px]" />
-             </a>
-
-             <a href="/">
-              <img src="X.png" alt="" className="w-auto h-[55px]" />
-             </a>
-            </div>
-          </div>
-        </div> */}
-
-        <div className="flex  items-center justify-center ">
-          <p className="text-center text-sm  font-bold text-white">
-            All rights reserved | by DOGERACE 2023-24
+      </div>
+      <div className="flex  items-center justify-center border-t-2 mt-4 ">
+          <p className="text-center text-sm  font-bold text-black py-1">
+            All rights reserved | by DOGEWif 2024
           </p>
         </div>
-      </div>
     </section>
   );
 }

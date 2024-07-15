@@ -2,7 +2,7 @@ import Title from "components/Title";
 
 function Tokenomics() {
   return (
-    <section  id="token" className="container-wrapper bg-[#c0a736] rounded-2xl py-10 sm:py-14 px-4 sm:px-10 relative z-10">
+    <section  id="token" className="container-wrapper mt-4 border-2 box-s2  bg-[#ffffff] rounded-2xl py-10 sm:py-14 px-4 sm:px-10 relative z-10">
       <Title
         className="text-[#8431d6] mb-4 text-center"
         data-aos="fade-up"
@@ -12,19 +12,8 @@ function Tokenomics() {
       >
         Tokenomics
       </Title>
-      <div>
-        <p className=" text-center mb-2  font-bold text-base sm:text-lg">Contract : 7r2ZMyL9gGZa55CX3MJt5YJhGwhVjAH5g9juxnEuSi4w</p>
-      </div>
-      {/* <div className=" flex flex-col sm:flex-row items-center justify-center w-full gap-8">
-     <div className="bg-[#c6f2ff] my-5 py-5 px-3 rounded-md w-full white-shadow text-center font-semibold">
-            <p className=" uppercase">Buy Tax = 0%</p>
-            </div> 
 
-            <div className="bg-[#ffcbdf] w-full my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-              <p className=" uppercase">Sale tax = 3%</p>
 
-            </div>
-     </div> */}
 
       <div className="grid sm:grid-cols-2 gap-10 items-center">
         <img

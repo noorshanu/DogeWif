@@ -60,10 +60,10 @@ function Hero() {
           </p>
         </div>
         <div className=" hidden pb-2   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">
-        <a href="https://t.me/dogeraces" target="_blank">
+        <a href="https://t.me/dog" target="_blank" rel="noreferrer">
               <img src="TELEGRAM.png" alt="" className="w-auto h-[55px]" />
              </a>
-             <a href="https://twitter.com/dogerace1" target="_blank">
+             <a href="https://twitter.com/dog" target="_blank" rel="noreferrer">
               <img src="X.png" alt="" className="w-auto h-[55px]" />
              </a>
 
