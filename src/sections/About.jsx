@@ -5,7 +5,7 @@ function About() {
     <section className=" relative py-4">
       <div className=" container-wrapper">
 
-        <div className=" flex justify-between items-center gap-4">
+        <div className=" flex flex-col sm:flex-row justify-between items-center gap-4">
 
           <div className=" w-full sm:w-1/2">
             <img src="images/about.jpeg" alt=""  className=" rounded-xl h-[400px] w-auto box-s2 border-2 border-black"/>

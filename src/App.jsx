@@ -8,6 +8,7 @@ import NFTs from "sections/NFTs";
 import Product from "sections/Product";
 // import Product from "sections/Product";
 import Roadmap from "sections/Roadmap";
+import Subtoke from "sections/Subtoke";
 import Tokenomics from "sections/Tokenomics";
 // import Tokenomics from "sections/Tokenomics";
 
@@ -47,6 +48,7 @@ function App() {
         </div>
         <Roadmap/>
         {/* <Product/> */}
+        <Subtoke/>
 
         <Tokenomics/>
 

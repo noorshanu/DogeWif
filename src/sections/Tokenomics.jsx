@@ -3,7 +3,12 @@ import Title from "components/Title";
 function Tokenomics() {
   return (
     <section  id="token" className="container-wrapper mt-4 border-2 box-s2  bg-[#ffffff] rounded-2xl py-10 sm:py-14 px-4 sm:px-10 relative z-10">
-      <Title
+     
+     
+     
+  
+      
+       <Title
         className="text-[#8431d6] mb-4 text-center"
         data-aos="fade-up"
         data-aos-offset="300"
