@@ -25,7 +25,7 @@ function JoinCommunity() {
 
         <div className=" flex justify-center items-center gap-3">
         <a
-                  href="https://x.com/"
+                  href="https://x.com/DogeWif_sol"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <BsTwitter />
@@ -34,7 +34,7 @@ function JoinCommunity() {
            
 
                 <a
-                  href="https://t.me/" target="_blank" rel="noreferrer"
+                  href="http://t.me/dogewif_solana" target="_blank" rel="noreferrer"
                   className=" text-xl text-black bg-white hover:bg-[#1a4093] rounded-full p-2 border-2 border-[#000]  hover:text-[#fff]"
                 >
                   <FaTelegram />
