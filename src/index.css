@@ -53,6 +53,12 @@
   }
 }
 
+.bg-m{
+  background-image: url('../public/images//bg-main.jpeg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  
+}
 .black-screen {
   position: fixed;
   top: 0;
