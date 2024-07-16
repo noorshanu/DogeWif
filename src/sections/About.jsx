@@ -15,9 +15,9 @@ function About() {
             <h1 className=" font-dream font-bold text-5xl py-2">About DogeWif</h1>
           
             <div>
-              <p className=" text-lg"> Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Dolorem impedit, quod magnam, eligendi est adipisci cum saepe odit ducimus quisquam libero similique magni. Dolorum amet iste sit animi obcaecati error!</p>
+              <p className=" text-lg"> Dogewif, the fun-loving, lambo-riding, ultimate meme coin of Solana! This energetic and charismatic dog is more than just a token—it's the spirit of the bullish community. </p>
             
-              <p className=" text-lg pt-2"> Lorem ipsum dolor sit amet consectetur adipisicing elit. <br /> Dolorem impedit, quod magnam, eligendi est adipisci cum saepe odit ducimus quisquam libero similique magni. Dolorum amet iste sit animi obcaecati error!</p>
+              <p className=" text-lg pt-2">  Classic, bold, and always on the move, Dogewif is for the true OGs with diamond hands ready to become the next crypto millionaires. Hop on, hold tight, and ride with Dogewif to the moon!</p>
             </div>
           </div>
           

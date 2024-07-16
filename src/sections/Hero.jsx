@@ -54,9 +54,9 @@ function Hero() {
         </div>
         <div className=" text-center mt-4 sm:mt-0 box-s2 border-2 bg-white py-1 rounded-xl">
           <p className="max-w-3xl  text-[#000000] text-xl mx-auto my-2 hidden sm:block">Contract : Coming soon</p>
-          <h1 className="text-center text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">  The Meme Coin of Champions on Solana </h1>
+          <h1 className="text-center text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">  Dogewif: The Lambo-Loving Dog of Solana </h1>
           <p className=" max-w-3xl  text-[#000000] text-xl mx-auto">
-          DogeWif is a unique meme coin experience built on the Solana , with the fun and community spirit of meme coins. It's more than just a cryptocurrency; it's an adventure that rewards its participants with speed, entertainment, and the chance to be part of a vibrant community.
+          DogeWif is the Solana's silliest dog! This roddy zooms in a Lambo, wearing a party hat and shades. With bullish zoomies and a goofy grin, DogeWif fetches gains like a pro. Join the fun with the wackiest pup on Solana! Bow-wow! 
           </p>
         </div>
         <div className=" hidden pb-2   sm:flex  justify-center items-center gap-6 mt-7 sm:mt-8">

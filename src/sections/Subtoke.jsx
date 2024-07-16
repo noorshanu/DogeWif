@@ -42,7 +42,7 @@ function Subtoke() {
 
             <h2 className=" text-6xl font-dream font-bold text-center">SUPPLY</h2>
 
-            <p className=" text-center text-xl font-bold"> 100 Million</p>
+            <p className=" text-center text-xl font-bold"> 1 Billion</p>
           </div>
         </div>
       </div>

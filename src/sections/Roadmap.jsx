@@ -49,8 +49,8 @@ function Roadmap() {
                 The SolSon Beat Begins
               </h1> */}
             </div>
-            <p className=" text-base font-popins font-normal lh-1_7">
-              • PREPARE BRANDING CREATE SOCIALS
+            <p className=" text-base font-popins font-normal lh-1_7 uppercase">
+              • Branding and Create Socials
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
               • LAUNCH TOKEN.
@@ -98,16 +98,16 @@ function Roadmap() {
               </h1> */}
             </div>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • Nft launch .
+              • Non Stop Memes & Nft Launch  .
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
               • Pursuing New DEX & CEX Listings.
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • Executing Dapp Marketing Strategies.
+              • Reach 10k Holders & 100Million Mcap.
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
-              • partnerships .
+              • Events and Big Partnerships .
             </p>
             <p className=" text-base font-popins font-normal lh-1_7">
               • .further development{" "}

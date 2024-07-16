@@ -38,17 +38,17 @@ function Tokenomics() {
           data-aos-easing="ease-in-sine"
         >
           <div className="bg-[#c6f2ff] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-            <p className=" uppercase">Total Supply = 1,000,000,000,000</p>
+            <p className=" uppercase">Total Supply = 1,000,000,000</p>
           </div>
           <div className="bg-[#dbffc6] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-            <p className=" uppercase">Symbol = $solson</p>
+            <p className=" uppercase">Symbol = $DOGEW</p>
           </div>
           <div className="bg-[#e9cdff] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
             <p className=" uppercase">Tax = 0%</p>
           </div>
 
           <div className="bg-[#ffcbdf] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
-            <p className=" uppercase">Revoke mint </p>
+            <p className=" uppercase">Burn LP </p>
           </div>
           <div className="bg-[#ffcbdf] my-5 py-5 px-3 rounded-md white-shadow text-center font-semibold">
             <p className=" uppercase">Revoke Authority</p>
