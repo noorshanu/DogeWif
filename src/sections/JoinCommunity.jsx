@@ -20,7 +20,7 @@ function JoinCommunity() {
         <div >
       <h1 className=" text-5xl font-bold font-dream text-center py-3">  Contract address</h1>
         <h2 className="text-3xl font-bold font-dream text-center py-1">
-          Coming soon......
+        EZjufW8n3D9nnbkQ1qGWbYZNYwYfkaAs5QZukXc5vJ1b
         </h2>
 
         <div className=" flex justify-center items-center gap-3">

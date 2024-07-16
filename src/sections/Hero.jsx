@@ -47,13 +47,13 @@ function Hero() {
               href="/"
               className="   font-bold text-xs text-center"
             >
-         Contract : Coming soon...
+         Contract : EZjufW8n3D9nnbkQ1qGWbYZNYwYfkaAs5QZukXc5vJ1b
             </a>
           </div>
      
         </div>
         <div className=" text-center mt-4 sm:mt-0 box-s2 border-2 bg-white py-1 rounded-xl">
-          <p className="max-w-3xl  text-[#000000] text-xl mx-auto my-2 hidden sm:block">Contract : Coming soon</p>
+          <p className="max-w-3xl  text-[#000000] text-xl mx-auto my-2 hidden sm:block">Contract : EZjufW8n3D9nnbkQ1qGWbYZNYwYfkaAs5QZukXc5vJ1b</p>
           <h1 className="text-center text-[#000000] text-2xl sm:text-3xl lg:text-4xl font-dream uppercase pb-2  max-w-4xl mx-auto">  Dogewif: The Lambo-Loving Dog of Solana </h1>
           <p className=" max-w-3xl  text-[#000000] text-xl mx-auto">
           DogeWif is the Solana's silliest dog! This roddy zooms in a Lambo, wearing a party hat and shades. With bullish zoomies and a goofy grin, DogeWif fetches gains like a pro. Join the fun with the wackiest pup on Solana! Bow-wow! 
@@ -69,7 +69,7 @@ function Hero() {
 
           <div className=" relative">
             <a
-           href="/" target="_blank"
+           href="https://www.dextools.io/app/en/solana/pair-explorer/6DrmUAp7J4cnEc5r6AbFJnoJpwcEZ5Hbv7Bg8dogUmUZ?t=1721142907407" target="_blank"
               className=" "
             >
             <img src="images/dextool.png" alt="" className="h-[45px] bg-white box-s2    font-bold text-sm sm:text-xl rounded-full px-8 py-2" />
