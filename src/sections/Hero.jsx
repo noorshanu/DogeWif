@@ -34,7 +34,7 @@ function Hero() {
         />
         <img
           src="/images/hero.png"
-          className="w-full lg:w-[60%] lg:h-full  mt-0 sm:mt-[8rem] floating "
+          className="w-full lg:w-[40%] lg:h-full  mt-0 sm:mt-[8rem] floating "
           data-aos="fade-up"
           data-aos-offset="300"
           data-aos-duration="1500"
